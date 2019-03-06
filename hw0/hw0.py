@@ -1,4 +1,4 @@
-#註解part 1
+ #註解part 1
 #新頭殼
 
 import sys
@@ -15,7 +15,7 @@ def get_date(news_block_node):
     return datetime.strptime(date_string, '%Y.%m.%d').strftime('%Y-%m-%d')
 
 
-#class_ = ＸＸ是否要看檔案長怎樣（欄位名稱？）
+# 取得新聞標題（str)
 def get_title(news_block_node):
     return news_block_node.find(class_='news_title').a.string
 
