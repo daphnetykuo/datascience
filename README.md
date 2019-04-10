@@ -24,7 +24,7 @@ HELLO
 
 
 ## WEEK 3
-###Progress
+### Progress
 1. 資料庫pandas學習
 2. 野村證券：刪除資料中的 NAN 問題
 3. 找尋新的資料進行研究分析：歷史股價走勢（鉅亨網）
