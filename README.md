@@ -2,7 +2,7 @@
 HELLO
 </br> This is my weekly progress in learning CS+X
         
-      
+       
 ## WEEK 1
 ### Progress
 1. 完成 GitHub 設定與安裝
@@ -12,7 +12,7 @@ HELLO
 ### Homework
 閱讀助教 code：註解 section_1 爬蟲與試作文字雲
 
- 
+   
 ## WEEK 2
 ### Progress
 1. 設定資料分析方向（野村證券）
@@ -22,7 +22,7 @@ HELLO
 1. Onshore客戶地區分佈長條圖
 2. Onshore超級業務員：由 agentname 找出客戶數最多的業務員
 
-
+  
 ## WEEK 3
 ### Progress
 1. 資料庫pandas學習
@@ -32,7 +32,7 @@ HELLO
 ### Homework
 資料視覺化：Onshore客戶年齡比例 (bar plot)
 
-
+  
 ## WEEK 4
 ### Progress
 1. 設定新資料的研究方向：英國股價走勢與脫歐的關係
@@ -41,7 +41,7 @@ HELLO
 ### Homework
 修改圖表內容：Onshore客戶客戶年齡與風險程度間的關係（scatter plot)
 
-
+  
 ## WEEK 5
 ### Progress
 1. 建立新資料的研究架構：FXB指數（英國）與脫歐相關決策、事件之間的關係
@@ -51,7 +51,7 @@ HELLO
 ### Homework
 繪製Ｋ線圖：用 EUO、FXB、ULE 歷史股價畫出 2016-2019 年間的股價波動
 
-
+  
 ## WEEK 6
 ### Progress
 1. 分析HTML內容
@@ -61,18 +61,18 @@ HELLO
 ### Homework
 網路新聞爬蟲：擷取新聞的datetime、title
 
-
+  
 ## WEEK 7
 ### Progress
 1. 展開後的新聞無法爬取（只能爬到前十則）
-2. 嘗試Yahoo新聞
+2. 嘗試Yahoo新聞 (X)
 3. 定期更新新聞內容
 
 ### Homework
 1. 野村證券：Onshore客戶的性別與風險程度間的關係（stacked bar plot）
 2. 主題二：擷取每則新聞乾淨的datetime、title、summary
 
-
+  
 ## WEEK 8
 ### Progress
 1. BBC新聞網爬蟲問題
@@ -80,6 +80,31 @@ HELLO
 
 ### Homework
 1. 野村證券：解釋個圖表的分析結果
-2. 主題二：ETF歷史成交量繪製(待續)
+2. 主題二：ETF歷史成交量繪製(待續)  
+
+
+## WEEK 9
+### Progress
+初探文字探勘：APRIORI
+
+### Homework
+ETF：試爬 NYTimes(Developers API)  
+
+
+## WEEK 10
+### Progress
+學習 jieba、切割字詞與詞向量
+
+### Homework
+ETF：用BBC新聞網搜尋“Trump”，擷取所有新聞的date、title、summary、content  
+
+
+## WEEK 11
+### Progress
+文字探勘：關聯性分析
+
+### Homework
+ETF：分析搜尋"Trump"的新聞content中，特定字詞的關聯性與出現頻率
+
 
 
